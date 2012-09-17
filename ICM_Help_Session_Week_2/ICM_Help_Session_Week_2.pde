@@ -1,5 +1,8 @@
+// Bouncing ball with rectangle and mouse interaction
+// Click mouse to change colors at random for a few seconds
+
 //Declaring Variables
-//GLOBAL!!!
+//GLOBAL!!! These variables will work everywhere in your program
 float ballX;
 float ballY;
 float ballSizeX;
