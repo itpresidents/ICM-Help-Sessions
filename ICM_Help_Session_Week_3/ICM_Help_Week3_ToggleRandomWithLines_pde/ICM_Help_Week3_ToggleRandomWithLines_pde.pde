@@ -1,3 +1,9 @@
+/* lia martinez 2012
+   drawing a line between boxes using a counter
+*/
+
+
+
 Car [] cars = new Car[10]; 
 int [] savedPointsX = new int [10]; 
 int [] savedPointsY = new int [10]; 
