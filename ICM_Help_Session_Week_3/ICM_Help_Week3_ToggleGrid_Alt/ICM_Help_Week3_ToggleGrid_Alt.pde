@@ -1,6 +1,6 @@
 //ITP - ICM Fall 2012
 //This example shows how to draw a grid of squares 
-//that can each be clikced on and off
+//that can each be clicked on and off
 
 int cols = 10;
 int rows = 10;
