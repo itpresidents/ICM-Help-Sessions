@@ -11,6 +11,7 @@ void draw() {
   ball1.display();
   ball1.update(5);
   ball1.reachedBottom();
+  ball2.reachedBottom();
   
   // If ball1 is going down
   // Move ball2
